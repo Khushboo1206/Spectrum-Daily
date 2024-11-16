@@ -59,7 +59,8 @@ Spectrum Daily is a sleek **news website** that provides users with the latest u
 
 ## Screenshot
 
-![1731779492954](image/README/1731779492954.png)
+<img width="941" alt="image" src="https://github.com/user-attachments/assets/3d9d787b-21f6-447d-90c8-cb8b51cfe950">
+
 
 ---
 
